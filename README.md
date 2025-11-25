@@ -40,4 +40,4 @@
 
 ## Где ещё можно найти
 
-- **Telegram-канал**: [t.me/chwzh](https://t.me/chwzh) — про языки, культуру, музыку, размышления
+- **Telegram-канал**: [t.me/chwzh](https://t.me/chwzh)
