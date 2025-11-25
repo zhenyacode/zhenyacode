@@ -6,7 +6,7 @@
 
 - #### [Поисковик акростихов в прозе](https://github.com/zhenyacode/acrofinder)
    - Утилита для поиска акростихов в текстах. 
-   - Пишу статью о разработке утилиты и поиске акростихов в русской классике.
+   - [Статья на Системном Блоке](https://sysblok.ru/philology/chto-takoe-akrostih-i-kak-najti-zashifrovannye-poslanija-v-tekste/).
 
 - #### [Курс ИАД ФКН ВШЭ 2023/24](https://github.com/zhenyacode/hse-iad)  
    - Самостоятельно прошёл 3 модуля большого курса ВШЭ по машинному и глубинному обучению.
